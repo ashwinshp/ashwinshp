@@ -1,4 +1,4 @@
-![Imagem com Plano de Fundo]([https://example.com/path/to/your/image-with-background.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fquery%3Fq%3Dpastel%2Bpink%2Banime&psig=AOvVaw32eTRZ0LLtdbbGAXiPW3xl&ust=1726589795422000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMChq6_ux4gDFQAAAAAdAAAAABAJ))
+![Imagem com Plano de Fundo](https://static.vecteezy.com/system/resources/thumbnails/039/671/926/original/metaverse-city-concept-free-video.jpg)
 # Olá, eu sou a Raquel! 👋
 
  <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="150"/> 
