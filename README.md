@@ -1,6 +1,6 @@
 # Olá, eu sou a Raquel! 👋
 
-![Gatinho fofo](https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif)
+<img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="300"/>
 
 
 ## Sobre Mim
