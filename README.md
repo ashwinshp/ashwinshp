@@ -12,8 +12,8 @@ Atualmente sou Técnica de Suporte da Thomson Reuters para o sistema de contabil
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Linguagens de Programação:**
-  ![](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=white)
-  ![](https://img.shields.io/badge/--777BB4?logo=php&logoColor=white)
+  ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
+  ![](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
 
 ## 🚀 Projetos Recentes
