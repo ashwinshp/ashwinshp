@@ -1,5 +1,8 @@
 # Olá, eu sou a Raquel! 👋
 
+![Gatinho fofo](https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif)
+
+
 ## Sobre Mim
 
 Atualmente sou Técnica de Suporte da Thomson Reuters para o sistema de contabilidade Domínio Sistemas, apaixonada por Design, Tecnologia e IA. Com experiência em Design Gráfico, HTML, CSS, PHP e Javascript, gosto de trabalhar em projetos desafiadores e colaborar com outros desenvolvedores para criar soluções inovadoras. Estou atualmente focando na àrea de Design UI/UX (Web Design).
