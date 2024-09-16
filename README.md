@@ -12,13 +12,9 @@ Atualmente sou Técnica de Suporte da Thomson Reuters para o sistema de contabil
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Linguagens de Programação:**
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+  ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
+  ![](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
-- **Frameworks e Bibliotecas:**
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-  ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 
 ## 🚀 Projetos Recentes
 
