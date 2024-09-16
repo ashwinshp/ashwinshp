@@ -1,6 +1,6 @@
 # Olá, eu sou a Raquel! 👋
 
-<img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="300"/>
+<img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="150"/>
 
 
 ## Sobre Mim
