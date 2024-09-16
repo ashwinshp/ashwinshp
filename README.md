@@ -1,4 +1,3 @@
-![Imagem com Plano de Fundo](https://static.vecteezy.com/system/resources/thumbnails/039/671/926/original/metaverse-city-concept-free-video.jpg)
 # Olá, eu sou a Raquel! 👋
 
  <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="150"/> 
