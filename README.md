@@ -8,8 +8,8 @@ I'm currently learning JavaScript, Node.js, and React.
 
 ## 🛠️Languages
 
-  ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
-  ![](https://img.shields.io/badge/-TypeScript-777BB4?logo=php&logoColor=white)
+  ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=blue)
+  
 
 
 ## 📈 Stats
