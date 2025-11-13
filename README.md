@@ -1,21 +1,16 @@
-# Olá, eu sou a Raquel! 👋
+# Hey there, I'm Raquel! 👋
 
  <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="150"/> 
 
-## Sobre Mim
+## About me
 
-Atualmente sou Técnica de Suporte da Thomson Reuters para o sistema de contabilidade Domínio Sistemas, apaixonada por Design, Tecnologia e IA. Com experiência em Design Gráfico, HTML, CSS, PHP e Javascript, gosto de trabalhar em projetos desafiadores e colaborar com outros desenvolvedores para criar soluções inovadoras. Estou atualmente focando na àrea de Design UI/UX (Web Design).
+I'm currently learning JavaScript, Node.js, and React.
 
-## 🌟 Destaques
+## 🛠️Technologies & Tools
 
-- **Experiência:** 3 anos de experiência em tecnologia em geral.
-- **Especialidades:** Adobe Photoshop, Adobe Illustrator, CorelDraw, Figma, MySQL, Power BI, PHP e Javascript.
-
-## 🛠️ Tecnologias e Ferramentas
-
-- **Linguagens de Programação:**
+- **Languages**
   ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
-  ![](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+  ![](https://img.shields.io/badge/-TypeScript-777BB4?logo=php&logoColor=white)
 
 
 ## 🚀 Projetos Recentes
