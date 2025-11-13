@@ -4,12 +4,7 @@
 
 ## About me
 
-I'm currently learning JavaScript, Node.js, and React.
-
-## 🛠️Languages
-
-  ![](https://img.shields.io/badge/JS-yellow)
-  
+I'm currently learning
 
 
 ## 📈 Stats
