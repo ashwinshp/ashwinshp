@@ -1,11 +1,4 @@
-<img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="150"/> 
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:1A1B4B,100:3B2F80&height=220&section=header&text=Raquel%20Barbosa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Support%20N2%20•%20Development%20Systems%20•%20Girls%20in%20Tech&descAlignY=58"/>
-
-</div>
-
+<center><img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="150"/></center>
 <h1 align="center">✨ Olá, eu sou a Raquel ✨</h1>
 
 <p align="center">
