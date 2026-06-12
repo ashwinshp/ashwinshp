@@ -3,7 +3,8 @@
 
 <p align="center">
 💻 Técnica de Suporte N2 <br>
-📚 Estudante de Desenvolvimento de Sistemas <br>
+📚 Estudante de Desenvolvimento de Sistemas e <br>
+  Ciência de Dados <br>
 🚀 Apaixonada por tecnologia
 
 <p align="center">
