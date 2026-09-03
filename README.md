@@ -1,36 +1,28 @@
-<center><img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="150"/></center>
+<div align="center">
 
-<h1 align="center">Olá, eu sou a Raquel</h1>
+# Olá, eu sou a Raquel!
 
-<p align="center">
-💻 Técnica de Suporte N2 <br>
-📚 Estudante de Ciência de Dados <br>
-🌱 Aprendendo e desenvolvendo projetos na área de tecnologia
-</p>
+### Técnica de Suporte N2 | Estudante de Ciência de Dados
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=7A5FFF&center=true&vCenter=true&width=600&lines=Aprendendo+Python+e+Dados;Construindo+meu+portfólio;Transformando+problemas+em+soluções;Sempre+aprendendo+algo+novo" />
-</p>
+</div>
 
 ---
 
-## 💙 Sobre mim
+## Sobre mim
 
-Atualmente trabalho como **Técnica de Suporte N2**, onde tenho contato com análise de problemas, troubleshooting e suporte a sistemas.
+Atualmente trabalho como **Técnica de Suporte N2**, atuando com suporte a sistemas, análise de problemas e troubleshooting.
 
-Estou cursando **Ciência de Dados na UNIVESP** e comecei a direcionar meus estudos para a área de dados.
+Sou estudante de **Ciência de Dados na UNIVESP** e estou direcionando meus estudos para a área de dados.
 
-Tenho estudado **Python, SQL, HTML, CSS e JavaScript**, além dos conteúdos da faculdade.
+Tenho estudado **Python, SQL, HTML, CSS e JavaScript**, além de Excel e Power BI.
 
-Também tenho interesse em desenvolvimento de software e interfaces, principalmente em **front-end e UX/UI**.
+Também tenho interesse em desenvolvimento de software, front-end e UX/UI. Gosto de aprender colocando os conteúdos em prática e, por isso, estou começando a desenvolver projetos para construir meu portfólio.
 
-Gosto de aprender colocando os conhecimentos em prática, por isso estou começando a criar pequenos projetos para entender melhor as tecnologias e construir meu portfólio.
-
-Meu objetivo é continuar evoluindo e, futuramente, trabalhar na área de **Dados**.
+Atualmente, meu objetivo é evoluir meus conhecimentos em programação e dados e, futuramente, trabalhar como **Analista de Dados**.
 
 ---
 
-## 📚 Tecnologias
+## Tecnologias
 
 <div align="center">
 
@@ -38,37 +30,77 @@ Meu objetivo é continuar evoluindo e, futuramente, trabalhar na área de **Dado
 
 </div>
 
-Também tenho conhecimentos em **Excel e Power BI**.
+<br>
+
+<div align="center">
+
+**Python • SQL • HTML • CSS • JavaScript • Git • GitHub**
+
+</div>
+
+Também tenho estudado **Excel e Power BI**.
 
 ---
 
-## 💻 Projetos
+## Projetos
 
 ### Controle de Gastos
 
-Projeto desenvolvido em **Python** para praticar os conteúdos que estou aprendendo.
+Aplicação desktop desenvolvida em Python para controle de despesas.
 
-A aplicação permite cadastrar, editar e excluir gastos, além de calcular o total das despesas e salvar os dados em um arquivo JSON.
+O projeto permite:
 
-**Conceitos praticados:**
+- Adicionar gastos
+- Editar gastos
+- Excluir gastos
+- Visualizar os gastos cadastrados
+- Calcular o total das despesas
+- Salvar os dados em JSON
 
-- Python
-- Listas e dicionários
-- Funções
-- Estruturas condicionais
-- Laços de repetição
-- Tratamento de exceções
-- JSON
-- Tkinter
+**Tecnologias utilizadas:**
 
-[Ver projeto no GitHub](#)
+`Python` `Tkinter` `JSON`
+
+[Ver projeto](https://github.com/SEU_USUARIO/controle-de-gastos-python)
 
 ---
 
-## 🌱 O que estou buscando
+## Contribuições
 
-Atualmente estou focando meus estudos em **Python, SQL e análise de dados**, enquanto continuo aprendendo outras tecnologias.
+<div align="center">
 
-Estou construindo meus primeiros projetos e meu portfólio aos poucos, colocando em prática o que aprendo durante a faculdade e nos meus estudos por conta própria.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-compact&hide_border=true" width="100%"/>
 
-Meu objetivo é conseguir uma oportunidade para começar minha trajetória profissional na área de **Análise de Dados**.
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## Atualmente
+
+```text
+Estudando
+├── Python
+├── SQL
+├── HTML
+├── CSS
+├── JavaScript
+├── Excel
+└── Power BI
+
+Foco
+└── Análise de Dados
+
+Objetivo
+└── Trabalhar na área de Dados
