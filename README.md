@@ -20,50 +20,6 @@ Também tenho interesse em desenvolvimento de software, front-end e UX/UI. Gosto
 
 Atualmente, meu objetivo é evoluir meus conhecimentos em programação e dados e, futuramente, trabalhar como **Analista de Dados**.
 
----
-
-## Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,javascript,git,github,vscode" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Python • SQL • HTML • CSS • JavaScript • Git • GitHub**
-
-</div>
-
-Também tenho estudado **Excel e Power BI**.
-
----
-
-## Projetos
-
-### Controle de Gastos
-
-Aplicação desktop desenvolvida em Python para controle de despesas.
-
-O projeto permite:
-
-- Adicionar gastos
-- Editar gastos
-- Excluir gastos
-- Visualizar os gastos cadastrados
-- Calcular o total das despesas
-- Salvar os dados em JSON
-
-**Tecnologias utilizadas:**
-
-`Python` `Tkinter` `JSON`
-
-[Ver projeto](https://github.com/SEU_USUARIO/controle-de-gastos-python)
-
----
 
 ## Contribuições
 
