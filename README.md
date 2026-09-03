@@ -14,13 +14,15 @@
 
 ---
 
-## Sobre mim
+## 💙 Sobre mim
 
 Atualmente trabalho como **Técnica de Suporte N2**, onde tenho contato com análise de problemas, troubleshooting e suporte a sistemas.
 
 Estou cursando **Ciência de Dados na UNIVESP** e comecei a direcionar meus estudos para a área de dados.
 
-Tenho estudado **Python, SQL, Excel e Power BI**, além dos conteúdos da faculdade. Também estou aprendendo HTML, CSS e JavaScript e tenho interesse em desenvolvimento e interfaces.
+Tenho estudado **Python, SQL, HTML, CSS e JavaScript**, além dos conteúdos da faculdade.
+
+Também tenho interesse em desenvolvimento de software e interfaces, principalmente em **front-end e UX/UI**.
 
 Gosto de aprender colocando os conhecimentos em prática, por isso estou começando a criar pequenos projetos para entender melhor as tecnologias e construir meu portfólio.
 
@@ -28,111 +30,45 @@ Meu objetivo é continuar evoluindo e, futuramente, trabalhar na área de **Dado
 
 ---
 
-## Atualmente estudando
+## 📚 Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,javascript,git,github,vscode" />
 
 </div>
 
-<p align="center">
-Python • SQL • HTML • CSS • JavaScript
-</p>
-
-Também estou estudando **Excel e Power BI**.
+Também tenho conhecimentos em **Excel e Power BI**.
 
 ---
 
-## Projetos
-
-Estou utilizando meus estudos para desenvolver projetos práticos e entender melhor os conceitos que estou aprendendo.
+## 💻 Projetos
 
 ### Controle de Gastos
 
-Aplicação desktop desenvolvida em **Python e Tkinter** para cadastrar, editar e excluir gastos.
+Projeto desenvolvido em **Python** para praticar os conteúdos que estou aprendendo.
 
-O projeto utiliza um arquivo JSON para salvar os dados.
+A aplicação permite cadastrar, editar e excluir gastos, além de calcular o total das despesas e salvar os dados em um arquivo JSON.
 
 **Conceitos praticados:**
 
-* Python
-* Listas e dicionários
-* Funções
-* Estruturas condicionais
-* Laços de repetição
-* Tratamento de exceções
-* JSON
-* Interface gráfica com Tkinter
+- Python
+- Listas e dicionários
+- Funções
+- Estruturas condicionais
+- Laços de repetição
+- Tratamento de exceções
+- JSON
+- Tkinter
 
 [Ver projeto no GitHub](#)
 
 ---
 
-## Minha jornada
+## 🌱 O que estou buscando
 
-```text
-Suporte Técnico
-      ↓
-Desenvolvimento de Sistemas
-      ↓
-Ciência de Dados
-      ↓
-Python • SQL • Excel • Power BI
-      ↓
-Construindo meu portfólio
-      ↓
-Buscando oportunidades na área de Dados
-```
+Atualmente estou focando meus estudos em **Python, SQL e análise de dados**, enquanto continuo aprendendo outras tecnologias.
 
----
+Estou construindo meus primeiros projetos e meu portfólio aos poucos, colocando em prática o que aprendo durante a faculdade e nos meus estudos por conta própria.
 
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=7A5FFF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=7A5FFF" />
-</p>
-
----
-
-## Um pouco sobre mim
-
-```yaml
-name: Raquel
-
-location: Brazil
-
-current_job: Técnica de Suporte N2
-
-education:
-  - Ciência de Dados - UNIVESP
-  - Desenvolvimento de Sistemas
-  - Técnico em Informática
-
-currently_learning:
-  - Python
-  - SQL
-  - HTML
-  - CSS
-  - JavaScript
-  - Excel
-  - Power BI
-
-interests:
-  - Data Analysis
-  - Data Science
-  - Technology
-  - Front-end
-  - UX/UI
-  - Troubleshooting
-  - Photography
-
-goal:
-  - Construir meu portfólio
-  - Evoluir na área de Dados
-  - Conseguir uma oportunidade como Analista de Dados
-```
+Meu objetivo é conseguir uma oportunidade para começar minha trajetória profissional na área de **Análise de Dados**.
