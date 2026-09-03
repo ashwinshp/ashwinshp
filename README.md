@@ -1,6 +1,8 @@
 <div align="center">
 
-# Olá, eu sou a Raquel!
+<img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="150">
+
+# Olá, eu sou a Raquel
 
 ### Técnica de Suporte N2 | Estudante de Ciência de Dados
 
@@ -10,53 +12,76 @@
 
 ## Sobre mim
 
-Atualmente trabalho como **Técnica de Suporte N2**, atuando com suporte a sistemas, análise de problemas e troubleshooting.
+Sou Técnica de Suporte N2 e atualmente curso **Ciência de Dados na UNIVESP**.
 
-Sou estudante de **Ciência de Dados na UNIVESP** e estou direcionando meus estudos para a área de dados.
+No meu trabalho, tenho contato com suporte a sistemas, análise de problemas e troubleshooting.
 
-Tenho estudado **Python, SQL, HTML, CSS e JavaScript**, além de Excel e Power BI.
+Nos meus estudos, estou começando a me aprofundar em **Python, SQL, HTML, CSS e JavaScript**, além de Excel e Power BI.
 
-Também tenho interesse em desenvolvimento de software, front-end e UX/UI. Gosto de aprender colocando os conteúdos em prática e, por isso, estou começando a desenvolver projetos para construir meu portfólio.
+Tenho interesse em tecnologia, desenvolvimento e análise de dados. Gosto principalmente de aprender criando projetos e colocando em prática o que estou estudando.
 
-Atualmente, meu objetivo é evoluir meus conhecimentos em programação e dados e, futuramente, trabalhar como **Analista de Dados**.
+Meu objetivo é continuar evoluindo na área de tecnologia e construir meu caminho profissional em **Análise de Dados**.
 
+---
 
-## Contribuições
+## O que estou aprendendo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-compact&hide_border=true" width="100%"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,javascript">
+
+</div>
+
+<p align="center">
+Python • SQL • HTML • CSS • JavaScript
+</p>
+
+<p align="center">
+Também estudando Excel e Power BI.
+</p>
+
+---
+
+## Projetos
+
+### Controle de Gastos
+
+Meu primeiro projeto desenvolvido em Python com interface gráfica.
+
+A aplicação permite cadastrar, editar e excluir gastos, além de calcular o total das despesas e salvar os dados em um arquivo JSON.
+
+**Tecnologias utilizadas:**
+
+`Python` `Tkinter` `JSON`
+
+[Ver projeto →](https://github.com/SEU_USUARIO/controle-de-gastos-python)
+
+---
+
+## Minhas contribuições
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-compact&hide_border=true&area=true" width="100%">
 
 </div>
 
 ---
 
-## GitHub Stats
+## GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=transparent">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=transparent">
 
 </div>
 
 ---
 
-## Atualmente
+<div align="center">
 
-```text
-Estudando
-├── Python
-├── SQL
-├── HTML
-├── CSS
-├── JavaScript
-├── Excel
-└── Power BI
+**Obrigada por visitar meu perfil!**
 
-Foco
-└── Análise de Dados
-
-Objetivo
-└── Trabalhar na área de Dados
+</div>
